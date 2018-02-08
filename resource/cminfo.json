@@ -1,0 +1,15 @@
+
+
+{
+  "items" :
+    {
+      "cminfo":{
+          "cluster_name":"Cloudera QuickStart",
+          "cm_host":"192.168.13.130",
+          "cm_port":"7180",
+          "cm_user":"admin",
+          "cm_passwd":"admin"
+      }
+    }
+
+}
