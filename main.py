@@ -4,6 +4,8 @@
 from  monitoring.service.yarn.checkJobHeath import YarnApplication
 
 
+
+
 if __name__ == "__main__":
     yarn = YarnApplication()
     yarn.checkHeath()
