@@ -45,9 +45,3 @@ class CMTools:
         else:
             return None
 
-
-
-if __name__== "__main__":
-
-    cmtools = CMTools()
-    cmtools.getcmInfo("cminfo")
