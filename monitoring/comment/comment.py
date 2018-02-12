@@ -5,7 +5,7 @@ __author__ = "bigdata supprot zhongyin.miao with l3 team"
 
 """         """
 
-CLASTER_NAME="Cloudera QuickStart"
+
 
 SERVICE_TYPE = {
   'SQOOP':'SQOOP',
