@@ -1,0 +1,6 @@
+2018-02-12 14:22:40,763 - INFO - CMTools[line:27] - resource path:C:\project\python\CMdev\resource\cminfo.json
+2018-02-12 14:22:40,888 - INFO - CMTools[line:70] - yarnis not running....
+2018-02-12 14:22:40,888 - INFO - YarnApplication[line:41] - could not find server name: yarn
+2018-02-12 14:45:09,555 - INFO - yarnScheduler[line:21] - start run get_app_state job
+2018-02-12 14:46:02,821 - INFO - CMTools[line:27] - resource path:C:\project\python\CMdev\resource\cminfo.json
+2018-02-12 14:46:21,374 - INFO - CMTools[line:27] - resource path:C:\project\python\CMdev\resource\cminfo.json

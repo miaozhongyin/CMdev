@@ -55,4 +55,4 @@ class YarnApplication(object):
         smtp_config = SmtpConfig(host="smtp.qq.com",port=465,user="853945306@qq.com",passwd="qyrdbvgcjngrbcaa",sender="853945306@qq.com",receivers=["853945306@qq.com"])
         message_info = MessageInfo(mine=context, sender="starbucks CDH platform", receiver="starbucks team", subject="starbucks cdh platform")
         messages = message_info.set_message()
-       # sendEmail(smtp_config, messages)
+        sendEmail(smtp_config, messages)
