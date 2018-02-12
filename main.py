@@ -8,7 +8,7 @@ import time
 
 
 if __name__ == "__main__":
+    yarn = YarnApplication()
+    yarn.checkHeath()
     result = get_app_state()
     time.sleep(60*60*24*15)
-    #yarn = YarnApplication()
-    #yarn.checkHeath()

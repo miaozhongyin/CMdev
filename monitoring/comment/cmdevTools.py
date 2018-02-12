@@ -65,9 +65,6 @@ class CMTools:
                 if server_name == service.name:
                     cm_server = service
                     return cm_server
-                else:
-                    self.log.logger.info(server_name + " is not running....")
-                    return None
         else:
             self.log.logger.info("can not find "+server_name+" please check you input....")
             return None
